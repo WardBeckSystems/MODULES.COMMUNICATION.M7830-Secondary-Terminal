@@ -1,5 +1,5 @@
 # 19xx - 7830-01-001 - M7830A SECONDARY TERMINAL FUNCTIONAL - ISS 1.jpg
-Wiki page: [M7830](../../../../PAGES/M7830.md)
+Wiki page: [M7830](../)
 
 
 - **Year:** unknown (title block (read by eye))

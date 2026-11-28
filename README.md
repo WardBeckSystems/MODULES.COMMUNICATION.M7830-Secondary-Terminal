@@ -1,6 +1,6 @@
 # M7830 Secondary Terminal · Communication
 
-Ward-Beck Systems M7830, 1994|27. Wiki page: [M7830 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M7830.html)
+Ward-Beck Systems M7830, 1994|27. Wiki page: [M7830 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7830-Secondary-Terminal/)
 
 | Folder | What is in it | Files |
 |---|---|---|

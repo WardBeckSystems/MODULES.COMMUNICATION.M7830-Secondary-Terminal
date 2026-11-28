@@ -4,14 +4,10 @@ Ward-Beck Systems M7830, 1994|27. Wiki page: [M7830 on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 5 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 1 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 2 |
 
 ## Schematics
 
@@ -26,8 +22,8 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [1994 - M7830 - DOC - 94055-01-003 - IRS JACKS FOR ILLUSTRATIVE PURPOSES MAXIMUM DISTANCE FROM.kicad_sch](KICAD/1994%20-%20M7830%20-%20DOC%20-%2094055-01-003%20-%20IRS%20JACKS%20FOR%20ILLUSTRATIVE%20PURPOSES%20MAXIMUM%20DISTANCE%20FROM.kicad_sch)
+- [19xx - 7830-01-001 - M7830A SECONDARY TERMINAL FUNCTIONAL - ISS 1.kicad_sch](KICAD/19xx%20-%207830-01-001%20-%20M7830A%20SECONDARY%20TERMINAL%20FUNCTIONAL%20-%20ISS%201.kicad_sch)
 - [M7830.kicad_sym](KICAD/M7830.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
